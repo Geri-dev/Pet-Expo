@@ -2,8 +2,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
+ 
 }
+
+
 .App{
   font-family: "Poppins", sans-serif;
   width: 100%;
@@ -11,12 +13,15 @@
   display: flex;
   flex-direction: column;
   background: linear-gradient(to right, #ACD5DE, #FFFFFF);
-  
-
+ 
 }
+
 
 body{
   font-family: "Poppins", sans-serif;
   
 
 }
+
+
+

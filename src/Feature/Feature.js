@@ -4,6 +4,7 @@ import animal_1 from './cat5.png';
 import animal_2 from './dog-puppy.png';
 import animal_3 from './bird1.png';
 
+
 // Feature component for displaying images of animals below the hero area
 function Feature(props) {
   
@@ -24,6 +25,9 @@ function Feature(props) {
 }
 
 export default Feature;
+  
+
+
          
        
 
