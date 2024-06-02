@@ -1,0 +1,43 @@
+.about-us{
+  margin: 100px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+  width: 90%
+  
+}
+
+.about-left{
+  flex-basis: 40%;
+}
+
+.about-right{
+  flex-basis: 56%;
+}
+
+.about-img{
+  width: 100%;
+  border-radius: 50px;
+}
+
+.about-us h3{
+  font-family: 'Poppins',sans-serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 18px;
+  color: #1A4E8D;
+  margin-bottom: 25px;
+}
+
+.about-us h2{
+  font-size: 35px;
+  color: #1A4E8D;
+  margin: 10px 0;
+  max-width: 500px;
+}
+
+.about-us p{
+  color: #676767;
+  margin-bottom: 15px;
+}

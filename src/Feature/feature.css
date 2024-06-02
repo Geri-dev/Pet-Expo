@@ -1,0 +1,21 @@
+.Animals{
+  margin: 80px auto;
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(to right, #ACD5DE 0%, #ACD5DE 25%, #ffffff 50%, #ACD5DE 75%, #ACD5DE 100%);
+  
+}
+
+.Animal img{
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+
+
+.Animal{
+  flex-basis: 31%;
+}
